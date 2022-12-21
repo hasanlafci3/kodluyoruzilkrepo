@@ -27,3 +27,7 @@ Pull request'ler kabul edilir. Büyük değişiklikler için lütfen önce neyi 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Pictures
+
+![Foto](/pictures/pic1.jpeg)
