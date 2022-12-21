@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo
 
 # Installation
 
-Öncelikle projeyi clone'layın. (Buraya sizin linkiniz gelecek)
+Öncelikle projeyi clone'layın. (https://github.com/hasanlafci3/kodluyoruzilkrepo.git)
 
 # Usage
 
