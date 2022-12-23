@@ -31,3 +31,6 @@ Pull request'ler kabul edilir. Büyük değişiklikler için lütfen önce neyi 
 # Pictures
 
 ![Foto](/pictures/pic1.jpeg)
+
+
+# Visual Studio İle Yapılan İlk Deneme
